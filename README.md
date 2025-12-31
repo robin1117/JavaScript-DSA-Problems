@@ -46,4 +46,6 @@ I am solving **one coding challenge every day** and uploading my solutions here.
 | 2025-11-18 | Screen Time             | [Solution](./ScreenTime.js)          |
 | 2025-11-18 | File Storage            | [Solution](./FileStorage.js)         |
 | 2025-12-27 | Unique Characters       | [Solution](./UniqueCharacters.js)    |
-| 2025-12-27 | Reverse Sentence        | [Solution](./ReverseSentence.js)    |
+| 2025-12-27 | Reverse Sentence        | [Solution](./ReverseSentence.js)     |
+| 2025-12-31 | String Mirror           | [Solution](./StringMirror.js)        |
+| 2025-12-31 | DigitsvsLetters.js      | [Solution](./DigitsvsLetters.js)     |
