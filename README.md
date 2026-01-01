@@ -50,3 +50,5 @@ I am solving **one coding challenge every day** and uploading my solutions here.
 | 2025-12-31 | String Mirror           | [Solution](./StringMirror.js)        |
 | 2025-12-31 | DigitsvsLetters.js      | [Solution](./DigitsvsLetters.js)     |
 | 2025-12-31 | 2ndLargest.js           | [Solution](./2ndLargest.js)          |
+| 2025-12-31 | Caught Speeding.js      | [Solution](./CaughtSpeeding.js)      |
+| 2026-01-01 | Vowel Repeater.js       | [Solution](./VowelRepeater.js)       |
