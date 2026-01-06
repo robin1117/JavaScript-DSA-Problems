@@ -53,3 +53,4 @@ I am solving **one coding challenge every day** and uploading my solutions here.
 | 2025-01-01 | Caught Speeding.js      | [Solution](./CaughtSpeeding.js)      |
 | 2026-01-01 | Vowel Repeater.js       | [Solution](./VowelRepeater.js)       |
 | 2026-01-02 | Spam Detector.js        | [Solution](./SpamDetector.js)        |
+| 2026-01-06 | Tire Pressure.js        | [Solution](./TirePressure.js)        |
