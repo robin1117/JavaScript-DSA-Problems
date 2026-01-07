@@ -54,3 +54,5 @@ I am solving **one coding challenge every day** and uploading my solutions here.
 | 2026-01-01 | Vowel Repeater.js       | [Solution](./VowelRepeater.js)       |
 | 2026-01-02 | Spam Detector.js        | [Solution](./SpamDetector.js)        |
 | 2026-01-06 | Tire Pressure.js        | [Solution](./TirePressure.js)        |
+| 2026-01-06 | vOwElcAsE.js            | [Solution](./vOwElcAsE.js)           |
+| 2026-01-07 | Signature Validation.js | [Solution](./SignatureValidation.js) |

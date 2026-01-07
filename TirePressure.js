@@ -14,8 +14,6 @@ Return an array with the following values for each tire:
 ✅ Source: FreeCodeCamp DSA
 -------------------------------------------------
 */
-
-
 function tireStatus(pressuresPSI, rangeBar) {
   let pressureBAR = pressuresPSI.map((psi) => psi / 14.5038)
 
