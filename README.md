@@ -56,3 +56,5 @@ I am solving **one coding challenge every day** and uploading my solutions here.
 | 2026-01-06 | Tire Pressure.js        | [Solution](./TirePressure.js)        |
 | 2026-01-06 | vOwElcAsE.js            | [Solution](./vOwElcAsE.js)           |
 | 2026-01-07 | Signature Validation.js | [Solution](./SignatureValidation.js) |
+| 2026-01-10 | Sorted Array?.js        | [Solution](./SortedArray.js)         |
+| 2026-01-10 | Circular Prime.js       | [Solution](./CircularPrime.js)       |
