@@ -60,3 +60,5 @@ I am solving **one coding challenge every day** and uploading my solutions here.
 | 2026-01-10 | Circular Prime.js       | [Solution](./CircularPrime.js)       |
 | 2026-03-09 | Flattened.js            | [Solution](./Flattened.js)           |
 | 2026-03-11 | Sum the Letters.js      | [Solution](./SumtheLetters.js)       |
+| 2026-05-03 | Deepest Brackets.js     | [Solution](./DeepestBrackets.js)     |
+| 2026-05-03 | Anagram Groups.js       | [Solution](./AnagramGroups.js)       |
